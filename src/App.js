@@ -9,6 +9,7 @@ function App() {
         <p>
           Calorie Tracker
         </p>
+        <button>Track</button>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -23,5 +24,3 @@ function App() {
 }
 
 export default App;
-
-
